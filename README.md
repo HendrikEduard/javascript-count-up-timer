@@ -1,1 +1,1 @@
-# javascript-count-up-timer
+# A javascript year/day count-up timer!
